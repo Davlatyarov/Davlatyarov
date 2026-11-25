@@ -1,8 +1,8 @@
 <div align="center">
 
-# Muhammadqodir Davlatyorov
+# Muxammadqodir Davlatyorov
 
-**Cybersecurity Student (BSc, University of Wolverhampton / IDU) · SOC Analyst Intern @ ONESEC**
+**Cybersecurity Student (BSc, University of Wolverhampton / IDU) · Network Security & Defensive Infrastructure**
 
 [![Location](https://img.shields.io/badge/Tashkent-Uzbekistan-0f172a?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davlatyarov-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davlatyarov)
@@ -16,7 +16,6 @@
 
 Third-year **BSc Cybersecurity** student focused on **defensive security, network architecture, SOC operations, and practical offensive testing**. I build and harden production-ready security infrastructure on Linux VPS and virtualized enterprise labs, combining real-world troubleshooting (DPI analysis, DDoS mitigation, TLS hardening) with hands-on offensive labs (**20+ VulnHub machines** documented).
 
-- **Current Role:** SOC Analyst Intern at **ONESEC** (2026) — security monitoring, event triage, and network/log investigation.
 - **Education:** BSc Cybersecurity (In Progress, Year 3) — **International Digital University** *(University of Wolverhampton Programme)*; Python Backend — **Najot Ta'lim** (2023–2024).
 - **Focus Areas:** SIEM Telemetry, Network Segmentation, Encrypted Transport Protocols, Threat Intelligence, and Vulnerability Assessment.
 
@@ -46,7 +45,6 @@ Third-year **BSc Cybersecurity** student focused on **defensive security, networ
 
 ### Practical Labs & Experience
 
-- **SOC Analyst Intern — ONESEC** *(2026)*: Practical SOC monitoring, network & security event analysis, and incident investigation.
 - **IT Support — iiko** *(Jul – Sep 2025)*: POS infrastructure configuration, hardware/software troubleshooting, and production support.
 - **Offensive Security Labs (20+ VulnHub Machines)**: Repeatable methodology *(Host Discovery → Enumeration → Initial Access → Linux Privilege Escalation → Documentation)* across *Kioptrix*, *Mr Robot*, *DC-1 to DC-4*, *FristiLeaks*, *Symfonos*, and *SickOS*.
 
